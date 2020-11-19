@@ -16,8 +16,8 @@ My name is Tanya Sabadyshyna and I started my way in the development.
   
 ### My stack and tools:
 
-  [![Html](.icons/html5.svg)]()
-  [![Css](./icons/css3.svg)]()
+  [![Html5](./icons/html5.svg)]()
+  [![Css3](./icons/css3.svg)]()
   [![Sass](./icons/sass.svg)]()
   [![GitHub](./icons/github.svg)]()
   [![VScode](./icons/visual-studio-code.svg)]()
