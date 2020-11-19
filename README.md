@@ -3,10 +3,10 @@ My name is Tanya Sabadyshyna and I started my way in the Web development.
 
 ### Find me around the web :earth_africa::
   
-  [![sabadyshyna e-mail](./icons/gmail-tanya-sabadyshyna.svg)](mailto:sabadyshyna@gmail.com{:target="_blank"})
-  [![sabadyshyna telegram](./icons/telegram-tanya-sabadyshyna.svg)](https://t.me/sabadyshyna{:target="_blank"})
-  [![sabadyshyna facebook](./icons/facebook-tanya-sabadyshyna.svg)](https://www.facebook.com/sabadyshyna{:target="_blank"})
-  [![sabadyshyna linkedin](./icons/linkedin-tanya-sabadyshyna.svg)](https://www.linkedin.com/in/sabadyshyna/{:target="_blank"})
+  [![sabadyshyna e-mail](./icons/gmail-tanya-sabadyshyna.svg)](mailto:sabadyshyna@gmail.com)
+  [![sabadyshyna telegram](./icons/telegram-tanya-sabadyshyna.svg)](https://t.me/sabadyshyna)
+  [![sabadyshyna facebook](./icons/facebook-tanya-sabadyshyna.svg)](https://www.facebook.com/sabadyshyna)
+  [![sabadyshyna linkedin](./icons/linkedin-tanya-sabadyshyna.svg)](https://www.linkedin.com/in/sabadyshyna/)
   
 ### I’m currently learning:
 
