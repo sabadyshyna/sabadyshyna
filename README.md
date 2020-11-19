@@ -16,13 +16,12 @@ My name is Tanya Sabadyshyna and I started my way in the development.
   
 ### My stack and tools:
 
-  ![Html]()
-  ![Css]()
-  ![Sass]()
-  ![GitHub]()
-  ![VScode]()
-  ![Webpack]()
-  
+  [![Html](.icons/html5.svg)]()
+  [![Css](./icons/css3.svg)]()
+  [![Sass](./icons/sass.svg)]()
+  [![GitHub](./icons/github.svg)]()
+  [![VScode](./icons/visual-studio-code.svg)]()
+  [![Webpack](./icons/webpack.svg)]()
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sabadyshyna&show_icons=true&title_color=3A405A&text_color=3A405A&icon_color=E9AFA3&bg_color=DEG,F9DEC9,AEC5EB&hide_border=true)
 
