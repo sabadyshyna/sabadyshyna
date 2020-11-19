@@ -3,19 +3,19 @@ My name is Tanya Sabadyshyna and I started my way in the Web development.
 
 ### Find me around the web :earth_africa::
   
-  [![sabadyshyna e-mail](./icons/gmail-tanya-sabadyshyna.svg)](mailto:sabadyshyna@gmail.com)
-  [![sabadyshyna telegram](./icons/telegram-tanya-sabadyshyna.svg)](https://t.me/sabadyshyna)
-  [![sabadyshyna facebook](./icons/facebook-tanya-sabadyshyna.svg)](https://www.facebook.com/sabadyshyna)
-  [![sabadyshyna linkedin](./icons/linkedin-tanya-sabadyshyna.svg)](https://www.linkedin.com/in/sabadyshyna/)
+  <a href="mailto:sabadyshyna@gmail.com" target="_blank"><img alt="" src="./icons/gmail-tanya-sabadyshyna.svg">
+  <a href="https://t.me/sabadyshyna" target="_blank"><img alt="" src="./icons/telegram-tanya-sabadyshyna.svg">
+  <a href="https://www.facebook.com/sabadyshyna" target="_blank"><img alt="" src="./icons/facebook-tanya-sabadyshyna.svg">
+  <a href="https://www.linkedin.com/in/sabadyshyna" target="_blank"><img alt="" src="./icons/linkedin-tanya-sabadyshyna.svg">
   
 ### I’m currently learning:
-
+  
   ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
   ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
 ### My stack and tools:
-
+  
   ![Html5](./icons/html5.svg)
   ![Css3](./icons/css3.svg)
   ![Sass](./icons/sass.svg)
