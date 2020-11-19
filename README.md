@@ -1,4 +1,4 @@
-# Hey, Guys! :wave:
+# Hey, Guys!
 My name is Tanya Sabadyshyna and I started my way in the Web development.
 
 ### Find me around the web :earth_africa::
