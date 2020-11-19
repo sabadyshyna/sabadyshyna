@@ -3,10 +3,10 @@ My name is Tanya Sabadyshyna and I started my way in the Web development.
 
 ### Find me around the web :earth_africa::
   
-  [![sabadyshyna e-mail](./icons/gmail-tanya-sabadyshyna.svg)](mailto:sabadyshyna@gmail.com){:target="_blank" rel="noopener"}
-  [![sabadyshyna telegram](./icons/telegram-tanya-sabadyshyna.svg)](https://t.me/sabadyshyna){:target="_blank" rel="noopener"}
-  [![sabadyshyna facebook](./icons/facebook-tanya-sabadyshyna.svg)](https://www.facebook.com/sabadyshyna){:target="_blank" rel="noopener"}
-  [![sabadyshyna linkedin](./icons/linkedin-tanya-sabadyshyna.svg)](https://www.linkedin.com/in/sabadyshyna/){:target="_blank" rel="noopener"}
+  [![sabadyshyna e-mail](./icons/gmail-tanya-sabadyshyna.svg)](mailto:sabadyshyna@gmail.com{:target="_blank"})
+  [![sabadyshyna telegram](./icons/telegram-tanya-sabadyshyna.svg)](https://t.me/sabadyshyna{:target="_blank"})
+  [![sabadyshyna facebook](./icons/facebook-tanya-sabadyshyna.svg)](https://www.facebook.com/sabadyshyna{:target="_blank"})
+  [![sabadyshyna linkedin](./icons/linkedin-tanya-sabadyshyna.svg)](https://www.linkedin.com/in/sabadyshyna/{:target="_blank"})
   
 ### I’m currently learning:
 
@@ -20,8 +20,9 @@ My name is Tanya Sabadyshyna and I started my way in the Web development.
   ![Css3](./icons/css3.svg)
   ![Sass](./icons/sass.svg)
   ![GitHub](./icons/github.svg)
-  ![VScode](./icons/visual-studio-code.svg)
+  ![Git](./icons/git.svg)
   ![Webpack](./icons/webpack.svg)
+  ![VScode](./icons/visual-studio-code.svg)
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sabadyshyna&show_icons=true&title_color=3A405A&text_color=3A405A&icon_color=E9AFA3&bg_color=DEG,F9DEC9,AEC5EB&hide_border=true)
 
