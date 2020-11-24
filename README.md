@@ -32,7 +32,3 @@ My name is Tanya Sabadyshyna and I started my way in the Web development.
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sabadyshyna&layout=compact&title_color=3A405A&text_color=3A405A&bg_color=DEG,AEC5EB,F9DEC9&hide_border=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabadyshyna&layout=compact&title_color=3A405A&text_color=3A405A&bg_color=DEG,AEC5EB,F9DEC9&hide_border=true"/>
 </a>
-
----
-
-![](https://visitor-badge.glitch.me/badge?page_id=sabadyshyna.sabadyshyna)
