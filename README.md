@@ -1,5 +1,5 @@
 # Hey, Guys!
-My name is Tanya Sabadyshyna and I started my way in the Web development.
+My name is Tania Sabadyshyna and I started my way in the Web development.
 
 >### Find me around the web :earth_africa::
 >  
